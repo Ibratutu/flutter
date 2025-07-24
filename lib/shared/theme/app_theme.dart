@@ -362,7 +362,6 @@ class AppTheme {
     FontWeight fontWeight = FontWeight.normal,
   }) {
     return TextStyle(
-      fontFamily: 'Amiri',
       fontSize: fontSize,
       fontWeight: fontWeight,
       color: isDark ? arabicTextColorDark : arabicTextColor,
